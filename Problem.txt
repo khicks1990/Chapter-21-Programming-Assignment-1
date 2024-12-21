@@ -1,0 +1,11 @@
+Add a remove method to the AVL tree class of this chapter. Use a graphical user interface that allows a user to work interactively with the AVL tree, adding and removing items as desired.
+
+Implement the remove() method which starts on line 185 of the Main.java file. Pay attention to the comments.
+
+Note: You may want to full screen the GUI window for testing. You will need to use the add element command to add values to the tree for testing. Example
+
+add 1
+Will add the integer 1 to the tree
+
+add 5
+will add the integer 5 to the tree
